@@ -7,7 +7,7 @@ const projectData = [
     title: "StichSmart E-commerce",
     description: "A modern e-commerce platform that connects users with professional tailors for custom clothing delivered to their doorstep. Designed for scalability and ease-of-use.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    image: "/src/assets/projectone.png", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://stitch-smart-nine.vercel.app/#how-it-works",
     source: "#",
   },
@@ -15,7 +15,7 @@ const projectData = [
     title: "E-learning Platform",
     description: "An E-learning Platform for University with sleek navigation.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    image: "/src/assets/watch-ui.png", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://e-learning-platform-n673.vercel.app/",
     source: "#",
   },
@@ -31,7 +31,7 @@ const projectData = [
     title: "StichSmart E-commerce",
     description: "A modern e-commerce platform that connects users with professional tailors for custom clothing delivered to their doorstep. Designed for scalability and ease-of-use.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    image: "/src/assets/projectone.PNG", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://stitch-smart-nine.vercel.app/#how-it-works",
     source: "#",
   },
@@ -39,7 +39,7 @@ const projectData = [
     title: "E-learning Platform",
     description: "An E-learning Platform for University with sleek navigation.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    image: "/src/assets/projectone.PNG", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://e-learning-platform-n673.vercel.app/",
     source: "#",
   },
@@ -47,7 +47,7 @@ const projectData = [
     title: "StichSmart E-commerce",
     description: "A modern e-commerce platform that connects users with professional tailors for custom clothing delivered to their doorstep. Designed for scalability and ease-of-use.",
     tech: ["React JS", "Tailwind CSS", "Vercel"],
-    image: "/src/assets/projectone.PNG", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://stitch-smart-nine.vercel.app/#how-it-works",
     source: "#",
   },
@@ -55,7 +55,7 @@ const projectData = [
     title: "Brand Web Design",
     description: "A modern e-commerce platform that connects users with professional tailors for custom clothing delivered to their doorstep. Designed for scalability and ease-of-use.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    image: "/src/assets/projectone.PNG", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://stitch-smart-nine.vercel.app/#how-it-works",
     source: "#",
   },
@@ -63,7 +63,7 @@ const projectData = [
     title: "Business Web Design",
     description: "An E-learning Platform for University with sleek navigation.",
     tech: ["HTML", "CSS", "JavaScript", "Vercel"],
-    image: "/src/assets/projectone.PNG", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://e-learning-platform-n673.vercel.app/",
     source: "#",
   },
@@ -71,7 +71,7 @@ const projectData = [
     title: "E-commerce Web Design",
     description: "A modern e-commerce platform that connects users with professional tailors for custom clothing delivered to their doorstep. Designed for scalability and ease-of-use.",
     tech: ["React JS", "Tailwind CSS", "Vercel"],
-    image: "/src/assets/projectone.PNG", // Use the original image import path
+    image: "/src/assets/stitch-smart.PNG", // Use the original image import path
     live: "https://stitch-smart-nine.vercel.app/#how-it-works",
     source: "#",
   },
